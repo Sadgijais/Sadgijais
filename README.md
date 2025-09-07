@@ -32,7 +32,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="s.jpg" width="120">
       <br>
       <ul align="left">
         <li>🎀 <b>CSE Student</b> | balancing code, creativity & curiosity</li>
@@ -44,7 +43,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/f5/1e/23/f51e23e3b2f2b5c8f8b8c8f8c8f8c8f8.gif" width="120">
+      <img src="s.jpg" width="120">
       <br>
       <img src="https://badges.pufler.dev/visits/Sadgijais/Sadgijais?color=FF69B4" />
       <img src="https://badges.pufler.dev/years/Sadgijais?color=F702F0" />
