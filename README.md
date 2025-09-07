@@ -161,7 +161,7 @@
 
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/f5/8e/6c/f58e6c865a3d8245f064898b78cb7e76.gif" width="500">  
+  <img src="[https://i.pinimg.com/originals/f5/8e/6c/f58e6c865a3d8245f064898b78cb7e76.gif](https://gifdb.com/images/thumbnail/spring-night-purple-aesthetic-xq9ph0d7t3v3j7n3.gif)" width="500">  
 
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%92%8C+Dream+big,+love+bigger+%F0%9F%92%8C" />
