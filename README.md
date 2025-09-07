@@ -106,17 +106,17 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://i.pinimg.com/originals/77/37/50/7737503d002b2cf1f0b0b3f6b1c6cbbf.gif" width="80"><br>
-        <b>📊 Data Projects</b>
+        <b>Data Projects</b>
         <p style="font-size:0.95rem;">Transforming raw info into meaningful insights ✨</p>
       </td>
       <td align="center" width="33%">
         <img src="https://i.pinimg.com/originals/2c/d5/52/2cd552f6e47dbecdfdd862599e7e10a4.gif" width="80"><br>
-        <b>💻 Web Development</b>
+        <b>Web Development</b>
         <p style="font-size:0.95rem;">Crafting aesthetic, user-friendly designs 🌸</p>
       </td>
       <td align="center" width="33%">
         <img src="https://i.pinimg.com/originals/3f/7a/94/3f7a9492f5a34272c9e34d91834c8d27.gif" width="80"><br>
-        <b>🌱 Learning</b>
+        <b>Learning</b>
         <p style="font-size:0.95rem;">Forever curious & inspired 💜</p>
       </td>
     </tr>
@@ -157,4 +157,4 @@
 
 <!-- 🌸💜 I believe and cherish Sadgi 💜🌸 -->
 
-<sub align="center">🌸 Sadgi💜</sub>
+<sub align="center">Sadgi💜</sub>
