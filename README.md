@@ -20,8 +20,8 @@
 - 🎀 **CS Student** exploring code & creativity  
 - 🌱 Learning **Web Development & Data Science**  
 - 💻 Passionate about **aesthetic UI & clean logic**  
-- 🌸 Believe in **simplicity + elegance** in life & tech  
-- 📧 Reach me at: **yourmail@example.com**  
+- 🌸 Believe in **simplicity** in life & tech  
+- 📧 Reach me at: **sadgijaiswal2204@gmail.com**  
 
 ---
 
@@ -87,7 +87,7 @@
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/sadgi-jaiswal-5aa580319/?originalSubdomain=in)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sadgi" target="_blank">
+  <a href="https://github.com/Sadgijais" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
