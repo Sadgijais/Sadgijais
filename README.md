@@ -134,7 +134,7 @@
 ## 💖 Fun & Aesthetic
 
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/4b/05/5e/4b055e3d3e3d3e3f3f3f3f3f3f3f3f3f.gif](https://gifdb.com/images/thumbnail/spring-night-purple-aesthetic-xq9ph0d7t3v3j7n3.gif)" width="400">
+  <img src="https://i.pinimg.com/originals/4b/05/5e/4b055e3d3e3d3e3f3f3f3f3f3f3f3f3f.gif" width="400">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=DA70D6&center=true&vCenter=true&width=500&height=40&lines=🌸+Code,+Create,+Cherish+💜" />
 </div>
