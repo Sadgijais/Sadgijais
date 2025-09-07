@@ -34,7 +34,7 @@
     <td align="center" width="50%">
       <br>
       <ul align="left">
-        <li>🎀 <b>CSE Student</b> | balancing code, creativity & curiosity</li>
+        <li>🎀 <b>Data Science Student</b> | balancing code, creativity & curiosity</li>
         <li>🌱 Currently learning <b>Java, Web Tech & Data Science</b></li>
         <li>💻 Love for <b>aesthetic UI + clean, simple logic</b></li>
         <li>🐿️ Team player who keeps things <b>organized & collaborative</b></li>
