@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadgi&show_icons=true&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadgi&layout=compact&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadgijais&show_icons=true&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadgijais&layout=compact&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=sadgi&theme=rose_pine&background=FFFAFA&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Sadgijais&theme=rose_pine&background=FFFAFA&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
