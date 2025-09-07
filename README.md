@@ -9,7 +9,7 @@
     <tr>
       <td>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F702F0&width=435&lines=%F0%9F%92%8C+I+believe+and+cherish++you...+%F0%9F%92%9C" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F702F0&width=435&lines=%F0%9F%92%8C+Simplicty+Liberosis+...+%F0%9F%92%9C" alt="Typing SVG" />
         </a>
       </td>
       <td>
@@ -187,11 +187,4 @@
 
 ---
 
-<!--
-✨ Extra ideas to keep the theme
-- All badges, text, and icons in pink/violet tones
-- Use more typing SVGs for little notes
-- Add a custom pixel art divider (can be made with pixelviolet.com)
-- Consider a pinned "Aesthetic Projects" section with cards for each repo
-- Add a playlist or quote section for extra personality!
--->
+
