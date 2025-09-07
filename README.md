@@ -173,7 +173,7 @@
 
 ---
 
-<!-- 🌸💜 Luv ya Sadgi 💜🌸 -->
+<!-- 🌸💜 I believe and cherish Sadgi 💜🌸 -->
 
 <sub>🌸 Sadgi💜</sub>
 
