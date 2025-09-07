@@ -36,12 +36,12 @@
     <tr>
       <td align="left" valign="top" width="60%">
         <ul style="padding-left:18px;">
-          <li>🎀 <b>Data Science Student</b> | balancing code, creativity & curiosity</li>
-          <li>🌱 Currently learning <b>Java, Web Tech & Data Science</b></li>
-          <li>💻 Love for <b>aesthetic UI + clean, simple logic</b></li>
-          <li>🐿️ Team player who keeps things <b>organized & collaborative</b></li>
-          <li>🌸 Strong believer in <b>simplicity</b> – in life, in projects, in design</li>
-          <li>📧 Reach me at: <b>sadgijaiswal2204@gmail.com</b></li>
+          <li><b>Data Science Student</b> | balancing code, creativity & curiosity</li>
+          <li>Currently learning <b>Java, Web Tech & Data Science</b></li>
+          <li>Love for <b>aesthetic UI + clean, simple logic</b></li>
+          <li>🐿️Team player who keeps things <b>organized & collaborative</b></li>
+          <li>Strong believer in <b>simplicity</b> – in life, in projects, in design</li>
+          <li>Reach me at: <b>sadgi2204jaiswal@gmail.com</b></li>
         </ul>
       </td>
       <td align="center" valign="middle" width="40%">
