@@ -1,53 +1,112 @@
-# 🌸 Sadgi  
+# 🌸💜 Hi, I'm Sadgi 🐿️  
 
-### 👩‍💻 About Me  
-Hi! I’m **Sadgi**, a curious learner and builder who loves solving problems with clarity and creativity. I enjoy exploring new technologies, experimenting with data, and working on projects that create real impact.  
+<div align="center">
 
-- 🌱 Currently learning: ** Data Science | Machine Learning**  
-- 🔭 Exploring: **React.js, Python, and Cloud Platforms**  
-- 🎯 Goal: To grow as a versatile developer and contribute to open-source & impactful projects  
-- 🌼 Fun fact: I believe in **simplicity, consistency, and meaningful collaboration**.  
+<img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="500">  
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=60&lines=✨+Dreamer+%7C+Learner+%7C+Creator+✨;💜+Keep+it+simple,+make+it+beautiful+💜" alt="Typing SVG" />
+</a>
 
-### 🛠️ Tech Stack  
+<img src="https://komarev.com/ghpvc/?username=sadgi&label=Profile%20views&color=FF69B4&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sadgi?label=Followers&color=FF69B4&style=social" alt="followers" />
 
-**Languages:**  
-`Python` • `C++` • `JavaScript` • `R`  
-
-**Web Development:**  
-`React.js` • `Node.js` • `HTML` • `CSS` • `TailwindCSS`  
-
-**Data & AI:**  
-`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`  
-
-**Other Tools:**  
-`Git` • `VS Code` • `Figma`  
+</div>
 
 ---
 
-### 🌟 Projects  
+## 💕 About Me  
 
-🔹 **Portfolio Website** – A personal website built with React.js to showcase skills and projects.  
-
-🔹 **Data Analysis Mini-Projects** – Exploring datasets, cleaning, and visualizing insights with Python.  
-
-🔹 **Collaborative Work** – Active in academic and project collaborations, always aiming for clarity and efficiency.  
-
----
-
-### 📊 GitHub Analytics  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadgijais&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadgijais&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadgijais&show_icons=true&theme=radical)  
+- 🎀 **CS Student** exploring code & creativity  
+- 🌱 Learning **Web Development & Data Science**  
+- 💻 Passionate about **aesthetic UI & clean logic**  
+- 🌸 Believe in **simplicity + elegance** in life & tech  
+- 📧 Reach me at: **yourmail@example.com**  
 
 ---
 
-### 🌐 Connect with Me  
-📫 Email: **yourmail@example.com**  
-💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+## 🛠️ Tech Stack  
+
+<div align="center">
+
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,r&theme=light" />
+
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=light" />
+
+### 📊 Data & AI  
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light" />
+
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+
+</div>
 
 ---
 
-✨ *“Simplicity is the ultimate sophistication.”*  
+## 📈 GitHub Analytics  
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadgi&show_icons=true&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadgi&layout=compact&theme=rose_pine&bg_color=FFFAFA&title_color=FF69B4&icon_color=FF69B4&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=sadgi&theme=rose_pine&background=FFFAFA&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌸 Current Focus  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/77/37/50/7737503d002b2cf1f0b0b3f6b1c6cbbf.gif" width="200">
+        <h3>📊 Data Projects</h3>
+        <p>Turning messy data into pretty insights ✨</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/2c/d5/52/2cd552f6e47dbecdfdd862599e7e10a4.gif" width="200">
+        <h3>💻 Web Development</h3>
+        <p>Crafting aesthetic, user-friendly designs 🌸</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/3f/7a/94/3f7a9492f5a34272c9e34d91834c8d27.gif" width="200">
+        <h3>🌱 Learning</h3>
+        <p>Forever curious & inspired 💜</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sadgi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/f5/8e/6c/f58e6c865a3d8245f064898b78cb7e76.gif" width="500">  
+
+### 💭 Daily Thought  
+🌸 *"Simplicity is the ultimate form of elegance."* 🌸  
+
+</div>
