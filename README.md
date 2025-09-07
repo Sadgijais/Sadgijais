@@ -4,13 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="500">  
 
-<a href="https://git.io/typing-svg">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=5&pause=1000&color=F702F0&width=435&lines=%F0%9F%92%8C+P.S.+Someone+believes+and+cherish++you...+%F0%9F%92%9C)](https://git.io/typing-svg)
-</a>
-
-<!-- 🌸💜 Secret Note: Ayush loves Sadgi too 💜🌸 -->
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=5&pause=1000&color=F702F0&width=435&lines=%F0%9F%92%8C+P.S.+Someone+believes+and+cherish++you...+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=sadgi&label=Profile%20views&color=FF69B4&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/sadgi?label=Followers&color=FF69B4&style=social" alt="followers" />
@@ -118,6 +112,4 @@
 
 ---
 
-<!-- 🌸Secret Note: Ayush💜Sadgi🌸 -->
-
-<sub>sadgi💜</sub>
+<!-- 🌸💜 Secret Note: Ayush loves Sadgi too 💜🌸 -->
