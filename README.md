@@ -44,10 +44,6 @@
     </td>
     <td align="center" width="50%">
       <img src="s.jpg" width="120">
-      <br>
-      <img src="https://badges.pufler.dev/visits/Sadgijais/Sadgijais?color=FF69B4" />
-      <img src="https://badges.pufler.dev/years/Sadgijais?color=F702F0" />
-      <img src="https://badges.pufler.dev/repos/Sadgijais?color=DA70D6" />
     </td>
   </tr>
 </table>
