@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="500">  
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=60&lines=✨+Dreamer+%7C+Learner+%7C+Creator+✨;💜+Keep+it+simple,+make+it+beautiful+💜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=60&lines=✨+CS+Student+%7C+Dreamer+%7C+Doer+✨;💜+Keep+it+simple,+make+it+beautiful+💜;🌸+Forever+learning+and+creating+🌸;💌+P.S.+Someone+loves+you+too...+💜" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sadgi&label=Profile%20views&color=FF69B4&style=flat-square" alt="profile views" />
@@ -17,10 +17,11 @@
 
 ## 💕 About Me  
 
-- 🎀 **CS Student** exploring code & creativity  
-- 🌱 Learning **Web Development & Data Science**  
-- 💻 Passionate about **aesthetic UI & clean logic**  
-- 🌸 Believe in **simplicity** in life & tech  
+- 🎀 **CSE Student** | balancing code, creativity & curiosity  
+- 🌱 Currently learning **Java, Web Tech & Data Science**  
+- 💻 Love for **aesthetic UI + clean, simple logic**  
+- 🐿️ Team player who keeps things **organized & collaborative**  
+- 🌸 Strong believer in **simplicity** – in life, in projects, in design  
 - 📧 Reach me at: **sadgijaiswal2204@gmail.com**  
 
 ---
@@ -30,7 +31,7 @@
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,r&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,r&theme=light" />
 
 ### 🌐 Web Development  
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=light" />
@@ -39,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light" />
 
 ### ⚙️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,excel&theme=light" />
 
 </div>
 
@@ -66,7 +67,7 @@
       <td align="center" width="33%">
         <img src="https://i.pinimg.com/originals/77/37/50/7737503d002b2cf1f0b0b3f6b1c6cbbf.gif" width="200">
         <h3>📊 Data Projects</h3>
-        <p>Turning messy data into pretty insights ✨</p>
+        <p>Transforming raw info into meaningful insights ✨</p>
       </td>
       <td align="center" width="33%">
         <img src="https://i.pinimg.com/originals/2c/d5/52/2cd552f6e47dbecdfdd862599e7e10a4.gif" width="200">
@@ -87,11 +88,11 @@
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/sadgi-jaiswal-5aa580319/?originalSubdomain=in)" target="_blank">
+  <a href="https://www.linkedin.com/in/sadgi-jaiswal-5aa580319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:sadgijaiswal2204@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -107,6 +108,12 @@
 <img src="https://i.pinimg.com/originals/f5/8e/6c/f58e6c865a3d8245f064898b78cb7e76.gif" width="500">  
 
 ### 💭 Daily Thought  
-🌸 *"Simplicity is the ultimate form of elegance."* 🌸  
+🌸 *"Simplicity isn’t about less — it’s about clarity & elegance."* 🌸  
 
 </div>
+
+---
+
+<!-- 🌸💜 Secret Note: Ayush loves Sadgi too 💜🌸 -->
+
+<sub>🌸 P.S. — Hidden truth: someone loves Sadgi too 💜</sub>
