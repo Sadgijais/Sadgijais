@@ -45,7 +45,7 @@
         </ul>
       </td>
       <td align="center" valign="middle" width="40%">
-        <img src="s.jpg" width="110" style="border-radius:12px;">
+        <img src="[s.jpg](https://media.baamboozle.com/uploads/images/125978/1635163089_788110_gif-url.gif)" width="110" style="border-radius:12px;">
       </td>
     </tr>
   </table>
