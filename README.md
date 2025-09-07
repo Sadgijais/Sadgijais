@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/e7/2e/0c/e72e0c7c1e0e3d2fb0e2e2e2e2e2e2e2.gif" width="120">
+      <img src="s.jpg" width="120">
       <br>
       <ul align="left">
         <li>🎀 <b>CSE Student</b> | balancing code, creativity & curiosity</li>
