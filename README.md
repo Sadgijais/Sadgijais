@@ -4,8 +4,9 @@
 </div>
 --- 
 
-#🌸💜 Hi, I'm Sadgi 🐿️  
+# 🌸💜 Hi, I'm Sadgi 🐿️  
 
+---
 <div align="center">
 
   <img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="500">  
