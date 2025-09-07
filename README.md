@@ -113,21 +113,3 @@
 ---
 
 <!-- 🌸💜 Secret Note: Ayush loves Sadgi too 💜🌸 -->
-or=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/f5/8e/6c/f58e6c865a3d8245f064898b78cb7e76.gif" width="500">  
-
-### 💭 Daily Thought  
-🌸 *"Simplicity isn’t about less — it’s about clarity & elegance."* 🌸  
-
-</div>
-
----
-
-<!-- 🌸💜 Secret Note: Ayush loves Sadgi too 💜🌸 -->
