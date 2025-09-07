@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://gifdb.com/images/thumbnail/spring-night-purple-aesthetic-xq9ph0d7t3v3j7n3.gif" width="400">
+  <br>
+</div>
 # 🌸💜 Hi, I'm Sadgi 🐿️  
 
 <div align="center">
@@ -127,16 +131,6 @@
     </td>
   </tr>
 </table>
-</div>
-
----
-
-## 💖 Fun & Aesthetic
-
-<div align="center">
-  <img src="https://gifdb.com/images/thumbnail/spring-night-purple-aesthetic-xq9ph0d7t3v3j7n3.gif" width="400">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=DA70D6&center=true&vCenter=true&width=500&height=40&lines=🌸+Code,+Create,+Cherish+💜" />
 </div>
 
 ---
