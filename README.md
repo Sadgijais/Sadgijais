@@ -132,7 +132,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="27" />
   </a>
   &nbsp;
-  <a href="mailto:sadgijaiswal2204@gmail.com">
+  <a href="mailto:sadgi2204jaiswal@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" height="27" />
   </a>
   &nbsp;
