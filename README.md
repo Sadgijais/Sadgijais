@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="400" alt="aesthetic gif" />
+  <img src="https://raw.githubusercontent.com/Sadgijais/Sadgijais/main/middle.gif" width="400" alt="aesthetic gif" />
   <br><br>
   <table>
     <tr>
@@ -143,57 +143,4 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://i.pinimg.com/originals/77/37/50/7737503d002b2cf1f0b0b3f6b1c6cbbf.gif" width="80" alt="vision and VLMs" /><br>
-        <b>Vision & VLMs</b>
-        <p>Zero-shot video understanding with CogR-VOS 🎥</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://i.pinimg.com/originals/2c/d5/52/2cd552f6e47dbecdfdd862599e7e10a4.gif" width="80" alt="ML systems" /><br>
-        <b>ML Systems</b>
-        <p>Predictive models, real-time data & full-stack platforms 🌸</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://i.pinimg.com/originals/3f/7a/94/3f7a9492f5a34272c9e34d91834c8d27.gif" width="80" alt="learning" /><br>
-        <b>Learning</b>
-        <p>Forever curious & inspired 💜</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sadgi-jaiswal-5aa580319/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="27" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sadgi2204jaiswal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" height="27" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Sadgijais">
-    <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" height="27" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%92%8C+Dream+big,+love+bigger+%F0%9F%92%8C" alt="Dream big, love bigger" />
-  <h3>💭 Quote</h3>
-  <p>
-    <kbd>🌸 <i>"Simplicity isn’t about less — it’s about clarity & elegance."</i> 🌸</kbd>
-  </p>
-</div>
-
----
-
-<!-- 🌸💜 I believe and cherish Sadgi 💜🌸 -->
-
-<div align="center">
-  <sub>Sadgi 💜</sub>
-</div>
+      <td align="center"
